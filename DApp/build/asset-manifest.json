@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/app/static/css/main.ae12df3e.css",
+    "main.js": "/app/static/js/main.be25cbbd.js",
+    "static/media/floppy.png": "/app/static/media/floppy.2de464205e65e1e05026.png",
+    "static/media/penDrive.png": "/app/static/media/penDrive.736bcc842cb68415b580.png",
+    "static/media/nftDriveT.png": "/app/static/media/nftDriveT.9dd2d9c004fb4d9652d2.png",
+    "index.html": "/app/index.html",
+    "main.ae12df3e.css.map": "/app/static/css/main.ae12df3e.css.map",
+    "main.be25cbbd.js.map": "/app/static/js/main.be25cbbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae12df3e.css",
+    "static/js/main.be25cbbd.js"
+  ]
+}
